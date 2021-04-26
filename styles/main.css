@@ -1,0 +1,187 @@
+@font-face {
+    font-family: JetBrainsMono;
+    src: url("../fonts/JetBrainsMono-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: JetBrainsMono, monospace;
+    
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                      url(../images/main.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+header {
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.introduction { 
+    height: calc(100vh - 56px);
+} 
+
+.introduction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+
+.introduction .row {
+    justify-content: center;
+    text-align: center;
+}
+
+blockquote {
+    /*width: 60%;*/
+    margin: 0 auto;
+    padding-left: 1rem;
+    border-left: 5px solid #f3bb13;
+}
+
+.my-btn  {
+    padding: .5em;
+    border: 1px solid #f3bb13;
+    background-color: transparent;
+    color: #f3bb13;
+}
+
+a:hover .my-btn {
+    color: #ffffff;
+    background-color: #f3bb13;
+    transition: ease .5s;
+}
+
+.banner {
+    padding: 2% .5em;
+    text-align: center;
+    border-top: 2px solid #f3bb13;
+    border-bottom: 2px solid #f3bb13;
+}
+
+.banner i {
+    color: #f3bb13;
+    padding: 0 3%;
+    font-size: 3em;
+}
+
+.projects {
+    padding: 5% 0;
+}
+
+.projects blockquote {
+    padding-left: 3%;
+}
+
+.projects a {
+    display: inline-block;
+    width: auto;
+}
+
+.projects a:hover {
+    color: #f3bb13;
+    transition: .5s ease-in-out;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 45%);
+    grid-gap: 5%;
+}
+
+.card {
+    padding: 0;
+    border: none;
+    border-radius: 0;
+}
+
+.contact {
+    padding: 3% 0;
+    color: #ffffff;
+}
+
+.contact a {
+    color: #ffffff;
+}
+
+.contact p {
+    padding-left: 1rem;
+    border-left: 5px solid #f3bb13;
+}
+
+.contact .my-row {
+    display: flex;
+    justify-content: center;
+}
+
+.my-row p {
+    margin: 0 5%;
+}
+
+.social-media a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 1px solid #ffffff;
+    margin: 0 1rem;
+}
+
+.social-media a:hover {
+    color: #f3bb13;
+    border-color: #f3bb13;
+    transition: .5s;
+}
+
+
+@media (max-width: 576px) {
+    body {
+        font-size: .8em;
+    }
+
+    .banner i {
+        font-size: 2em;
+    }
+
+    .projects {
+        padding: 5%;
+    }
+
+    h4 {
+        font-size: calc(1.25rem + 0.3vw);
+    }   
+
+    .grid {
+        grid-template-columns: 1fr;
+        grid-gap: 10%;
+    }
+    
+    .contact .my-row {
+        flex-direction: column;
+        text-align: center;
+    }
+}
