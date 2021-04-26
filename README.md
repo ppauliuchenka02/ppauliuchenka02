@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on a JavaScript project.
 - 📫 You can reach me out via email ppauliuchenka02@gmail.com
 
-### [Portfolio Website](https://raw.githack.com/ppauliuchenka02/ppauliuchenka02/main/index.html)
+### [Portfolio Website](https://ppauliuchenka02.github.io/ppauliuchenka02/)
