@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on The Software, it is an indepth search engine that is user-centric and a CRM system for it.
+- 🔭 I’m currently working on The Software, it is an indepth search engine that is user-centric and building a CRM system for it as well.
 - 📫 How to reach me: ppauliuchenka02@gmail.com
 - 🌱 I’m currently working on Project Managemnt Certification by Google (Coursera).
 - 👯 I’m looking to collaborate on Big Data and Marine Science / Oceanography Research.
