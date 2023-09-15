@@ -7,14 +7,15 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on The Creux and News App Websites.
+- 🔭 I’m currently working on The Software, it is an indepth search engine that is user-centric and a CRM system for it.
 - 📫 How to reach me: ppauliuchenka02@gmail.com
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently working on Project Managemnt Certification by Google (Coursera).
+- 👯 I’m looking to collaborate on Big Data and Marine Science / Oceanography Research.
+- ⚡ Fun fact: I wanted to be a Marine Scientist or Oceanographer. I am more scared of a cockroach 🪳 than meeting a shark 🦈 in the open water.
+
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact:  -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppauliuchenka02&repo=arachnophobia)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppauliuchenka02&repo=bandgeeks-news-app)](https://github.com/anuraghazra/github-readme-stats)
